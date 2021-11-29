@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Facundo Seib (@baranork)
+- 👀 I’m interested in front-end develop, music, cars, F1 and fashion.
+- 🌱 I’m currently learning React, CSS Animations.
+- 📫 How to reach me: seibfacundo@gmail.com
